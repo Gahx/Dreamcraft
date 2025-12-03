@@ -1,0 +1,31 @@
+{
+  "name": "Hunt Quests",
+  "weight": 1,
+  "entries": [
+    {
+      "type": "entity",
+      "content": "minecraft:zombie",
+      "amount": {
+	  "min": 10,
+	  "max":20
+      },
+      "weight": 10,
+      "rewards": [
+        { "type": "item", "content": "minecraft:iron_ingot", "amount": 5 },
+        { "type": "item", "content": "minecraft:leather_boots", "amount": 5 },
+        { "type": "item", "content": "minecraft:leather_chestplate", "amount": 5 }
+      ]
+    },
+    {
+      "type": "entity",
+      "content": "minecraft:skeleton",
+      "amount": 15,
+      "weight": 10,
+      "rewards": [
+        { "type": "item", "content": "minecraft:bow", "amount": 1 },
+        { "type": "item", "content": "apotheosis:common_material", "amount": 5 }
+      ]
+    }
+  ]
+}
+

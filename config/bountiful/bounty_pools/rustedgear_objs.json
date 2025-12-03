@@ -1,0 +1,127 @@
+{
+
+  "content":{
+  
+        "armorer_obj_rusted_helmet": {
+	    "type": "item",
+	    "rarity": "COMMON",
+	    "content": "magistuarmory:rusted_helmet",
+	    "amount": {
+	       "min": 1,
+	       "max": 1
+	    },
+	"unitWorth": 1000
+        },
+        
+
+        
+        "armorer_obj_rusted_chestplate": {
+	    "type": "item",
+	    "rarity": "COMMON",
+            "content": "magistuarmory:rusted_chestplate",
+   	    "amount": {
+	       "min": 1,
+	       "max": 1
+	    },
+	"unitWorth": 2550
+        },
+
+        "armorer_obj_rusted_leggings": {
+	    "type": "item",
+	    "rarity": "COMMON",
+	    "content": "magistuarmory:rusted_leggings",
+            "amount": {
+	       "min": 1,
+	       "max": 1
+	    },
+	"unitWorth": 2550
+        },
+
+
+        "armorer_obj_rusted_boots": {
+	"type": "item",
+	"rarity": "COMMON",
+	"content": "magistuarmory:rusted_boots",
+	"amount": {
+	       "min": 1,
+	       "max": 1
+	    },
+	"unitWorth": 1550
+        },
+ 
+
+        "armorer_obj_crusader_helmet" {
+	"type": "item",
+	"rarity": "UNCOMMON",
+	"content": "magistuarmory:crusader_helmet",
+        "amount": {
+	       "min": 1,
+	       "max": 1
+	    },
+	"unitWorth": 2000
+        },
+
+
+        "armorer_obj_crusader_chestplate" {
+	"type": "item",
+	"rarity": "UNCOMMON",
+	"content": "magistuarmory:crusader_chestplate",
+	"amount": {
+	       "min": 1,
+	       "max": 1
+	    },
+	"unitWorth": 3550
+	},
+
+
+        "armorer_obj_crusader_leggings" {
+	"type": "item",
+	"rarity": "UNCOMMON",
+	"content": "magistuarmory:crusader_leggings",
+	"amount": {
+	       "min": 1,
+	       "max": 1
+	    },
+	"unitWorth": 3500
+	},
+        
+
+        "armorer_obj_crusader_boots",
+	"type": "item",
+	"rarity": "UNCOMMON",
+	"content": "magistuarmory:crusader_boots" {
+	"amount": {
+	       "min": 1,
+	       "max": 1
+	    },
+	"unitWorth": 2500
+	},
+
+
+        "armorer_obj_rusted_sword" {
+	"type": "item",
+	"rarity": "COMMON",
+	"content": "magistuarmory:rusted_sword",
+	"amount": {
+	       "min": 1,
+	       "max": 1
+	    },
+	"unitWorth": 1500
+	},
+ 
+
+        "armorer_obj_rusted_shield" {
+	"type": "item",
+	"rarity": "COMMON",
+	"content": "magistuarmory:rusted_shield",
+	"amount": {
+	       "min": 1,
+	       "max": 1
+	    },
+	"unitWorth": 1500
+	},
+
+    }
+
+}
+

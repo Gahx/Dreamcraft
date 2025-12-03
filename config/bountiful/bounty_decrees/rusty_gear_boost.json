@@ -1,0 +1,16 @@
+{
+  "decree": "rusted_gear_boost",
+  "type": "crafted",
+  "applies_to": "bounty_board",
+  "effects": [
+    {
+      "pool": "rusted_gear_trades",
+      "weight_multiplier": 2.0,
+      "rolls": 1,
+      "conditions": [
+        {"condition": "match_durability", "allow_any": true}
+      ]
+    }
+  ]
+}
+

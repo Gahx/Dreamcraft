@@ -1,0 +1,6 @@
+
+[Client]
+
+	[Client.GUI]
+		"Display Skill List" = false
+

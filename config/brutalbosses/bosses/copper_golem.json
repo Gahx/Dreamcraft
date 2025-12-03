@@ -1,0 +1,40 @@
+{
+  "name": "CopperGolem",
+  "entity": "minecraft:iron_golem",
+  "health": 300,
+  "damage": 10,
+  "movementSpeed": 0.2,
+  "armor": 15,
+  "loot": [
+    {
+      "item": "minecraft:copper_ingot",
+      "weight": 3,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "item": "modid:brass_ingot",
+      "weight": 2,
+      "min": 1,
+      "max": 2
+    }
+  ],
+  "spawn": {
+    "interval": 60,
+    "biomes": [
+      "minecraft:plains"
+    ],
+    "locations": [
+      {"x": 200, "y": 65, "z": 250},
+      {"x": -150, "y": 70, "z": 100},
+      {"x": 300, "y": 64, "z": -200}
+    ],
+    "radius": 5,
+    "allowMultiple": true,
+    "spawnCount": {
+      "min": 4,
+      "max": 6
+    }
+  }
+}
+
