@@ -17,7 +17,7 @@ Exploration & Discovery – Overhauled structures, dungeons, and biomes (YUNG’
 # Dreamcraft
 Minecraft 1.20.1 Dreamcraft Client
 
-Here is the latest release download: [https://github.com/Gahx/Dreamcraft/releases/tag/v1.0]
+Clone or download zip for the client files and follow the steps below:
 Check Changelog to see whats different between future versions including add/remove mods or updates to the config files
 
 To Install the Client follow these steps
