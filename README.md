@@ -24,7 +24,7 @@ To Install the Client follow these steps
 1. Download the newest Dreamcraft zip from the 'Latest Release' on github
 2. Open your prefered Modded Launcher and install Minecraft 1.20.1 with forge 1.47.4.9 - name it something you will remember like 'Dreamcraft'
 3. Open the instances folder open the zip file and Dreamcraft_Client_v1.0 and drag the three contents files into your 'Dreamcraft' instance folder
-5. Start your Dreamcraft instance and under multiplayer use dc.wonderbit.xyz as the server
+5. Start your Dreamcraft instance and under multiplayer use **dc.wonderbit.xyz** as the server
 
 Changelog
 See the Changelog for version updates, adding/removing mods, configurations and performance.
