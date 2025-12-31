@@ -33,4 +33,4 @@ Dreamcraft Modpack © Gahx
 Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 You may share and adapt it for non-commercial purposes with attribution. Commercial use is prohibited.
 
-Official Links | wonderbit.xyz | Wonderbit Gaming Discord - [1421177210676580393](https://discord.gg/Sn2C8JVa)
+Official Links | wonderbit.xyz | Wonderbit Gaming Discord - [[1421177210676580393](https://discord.gg/xKSfhjZ7bb)]
